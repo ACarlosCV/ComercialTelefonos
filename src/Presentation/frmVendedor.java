@@ -380,13 +380,13 @@ public class frmVendedor extends javax.swing.JFrame {
     private void btnProductosMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnProductosMouseClicked
         // TODO add your handling code here:
 //        pnlProdutos.setVisible(true);
-        frmMANproductos ventana = new frmMANproductos();
-        ventana.setSize(1230, 710);
-        ventana.setLocation(0,0);
-        pnlVenta.removeAll();
-        pnlVenta.add(ventana, BorderLayout.CENTER);
-        pnlVenta.revalidate();
-        pnlVenta.repaint();
+//        frmMANproductos ventana = new frmMANproductos();
+//        ventana.setSize(1230, 710);
+//        ventana.setLocation(0,0);
+//        pnlVenta.removeAll();
+//        pnlVenta.add(ventana, BorderLayout.CENTER);
+//        pnlVenta.revalidate();
+//        pnlVenta.repaint();
     }//GEN-LAST:event_btnProductosMouseClicked
 
     private void btnProductosMouseExited(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnProductosMouseExited
